@@ -48,7 +48,7 @@ const ChartComponent = ({ data }) => {
         showShadow: 0,
         showPlotBorder: 0,
         paletteColors:
-          '#90be6d, #43aa8b, #f8961e, #f9c74f, #f94144, #f3722c, #577590',
+          '#f9c74f, #43aa8b, #f8961e, #577590, #f94144, #f3722c, #90be6d',
         bgColor: '#FFFFFF',
         showBorder: 0
       },

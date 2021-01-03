@@ -1,6 +1,6 @@
 import React from 'react'
 import { Info, Repos, User, Search, Navbar } from '../components'
-import loadingImage from '../images/preloader.gif'
+import loadingImage from '../images/6.svg'
 import { GithubContext } from '../context/context'
 
 const Dashboard = () => {
