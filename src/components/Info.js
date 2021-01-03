@@ -14,7 +14,7 @@ const UserInfo = () => {
       icon: <GoRepo className="icon" />,
       label: 'repos',
       value: public_repos,
-      color: 'pink'
+      color: 'teal'
     },
     {
       id: 2,
@@ -95,21 +95,21 @@ const Wrapper = styled.section`
       margin-bottom: 0;
       text-transform: capitalize;
     }
-    .pink {
-      background: #ffe0f0;
-      color: #da4a91;
+    .teal {
+      background: #355070;
+      color: #ffff;
     }
     .green {
-      background: var(--clr-primary-10);
-      color: var(--clr-primary-5);
+      background: #6d597a;
+      color: #ffff;
     }
     .purple {
-      background: #e6e6ff;
-      color: #5d55fa;
+      background: #b56576;
+      color: #ffff;
     }
     .yellow {
-      background: #fffbea;
-      color: #f0b429;
+      background: #e56b6f;
+      color: #ffff;
     }
   }
 `

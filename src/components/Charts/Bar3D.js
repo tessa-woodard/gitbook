@@ -19,7 +19,7 @@ ReactFC.fcRoot(FusionCharts, Chart)
 const ChartComponent = ({ data }) => {
   const chartConfigs = {
     type: 'bar2d', // The chart type
-    width: '100%', // Width of the chart
+    width: '90%', // Width of the chart
     height: '350', // Height of the chart
     dataFormat: 'json', // Data type
     dataSource: {
