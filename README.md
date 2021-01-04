@@ -1,8 +1,6 @@
 # This is Gitbook
 
-<br />
-
-### See live](https://tw-gitbook.netlify.app/)!
+## [See live](https://tw-gitbook.netlify.app/)
 
 <br />
 
@@ -19,3 +17,14 @@
 - Hosting - Netlify
 
 <br />
+
+### Gitbook is a way to search for GitHub users. It will allow you to view the user's languages, most popular repos, stars per language as well as most fork repos. This application also shows you a users total repos, total followers and how many people they are following.
+
+<br />
+
+![](./assets/login-page.png)
+
+![](./assets/login-form.png)
+
+![](./assets/dashboard1.png)
+![](./assets/dashboard2.png)
